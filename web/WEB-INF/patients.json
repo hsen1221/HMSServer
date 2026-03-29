@@ -1,0 +1,31 @@
+{
+  "patients": [
+    {
+      "patientId": "P001",
+      "patientName": "Ahmed Ali",
+      "doctorId": "D001",
+      "age": 30,
+      "bloodType": "A+",
+      "phone": "0501234567",
+      "medicalHistory": "Diabetes, Hypertension"
+    },
+    {
+      "patientId": "P002",
+      "patientName": "Sara Mohamed",
+      "doctorId": "D001",
+      "age": 25,
+      "bloodType": "O+",
+      "phone": "0507654321",
+      "medicalHistory": "None"
+    },
+    {
+      "patientId": "P003",
+      "patientName": "Khaled Omar",
+      "doctorId": "D002",
+      "age": 45,
+      "bloodType": "B+",
+      "phone": "0509876543",
+      "medicalHistory": "Heart Disease"
+    }
+  ]
+}
